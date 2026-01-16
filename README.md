@@ -1,4 +1,4 @@
-Hi, I'm Karishma 👋
+Hi, I'm Karishma Srivastava👋
 
 ML-focused Data Engineer / Associate Data Scientist with 2.5+ years of experience.
 I work on data pipelines, applied machine learning, and retrieval-based systems.
