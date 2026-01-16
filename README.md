@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Karishma 👋
 
-<!--
-**Karishma-Srivastava/Karishma-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML-focused Data Engineer / Associate Data Scientist with 2.5+ years of experience.
+I work on data pipelines, applied machine learning, and retrieval-based systems.
 
-Here are some ideas to get you started:
+🔹 Interests:
+- Applied Machine Learning
+- Data Scientist
+- NLP & RAG systems
+- Data pipelines for ML
+- Model evaluation & reproducibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Tech:
+Python, SQL, Azure, AWS, MLflow, Docker, Scikit-learn, XGBoost, EDA
+
+📌 Selected Projects below 👇
